@@ -4,5 +4,5 @@ We focus on:
 * private room listings and provide key metrics such as earliest and latest reviews
 * the number of private rooms
 * and average prices
-# The analysis combines data on listing prices, room types, and reviews into a single summary DataFrame to offer valuable insights for a real estate start-up.
+##### The analysis combines data on listing prices, room types, and reviews into a single summary DataFrame to offer valuable insights for a real estate start-up.
 
